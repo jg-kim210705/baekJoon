@@ -13,6 +13,7 @@ public class No1003 {
 		int n = 0;
 		int t = 0;
 		int[] arrn;
+		
 
 		n = Integer.parseInt(br.readLine());
 		
